@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCH Create PR"
+  short_description: "Compose a pull request from your branch"
+  default_prompt: "Compose a pull request for the current branch"

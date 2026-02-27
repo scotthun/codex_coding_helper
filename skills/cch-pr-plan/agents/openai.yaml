@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCH PR Plan"
+  short_description: "Draft an implementation blueprint for a ticket"
+  default_prompt: "Draft a blueprint for this ticket"

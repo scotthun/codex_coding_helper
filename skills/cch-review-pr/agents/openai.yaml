@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCH Review PR"
+  short_description: "Give a pull request a thorough second look"
+  default_prompt: "Give this pull request a second look"
