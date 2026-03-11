@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCH Code All PR Commits"
+  short_description: "Run the full blueprint end-to-end"
+  default_prompt: "Run the full blueprint end-to-end"

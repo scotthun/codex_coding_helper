@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCH Code PR Commit"
+  short_description: "Advance the blueprint by one commit"
+  default_prompt: "Advance the blueprint by one commit"
