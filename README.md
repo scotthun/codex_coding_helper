@@ -99,6 +99,9 @@ The typical workflow using these skills:
 
 For faster execution, use `cch-code-all-pr-commits` to run all planned commits in a single session.
 
+See [docs/WORKFLOW.md](docs/WORKFLOW.md) for the full diagram, including the human
+review checkpoints at each stage and how review findings loop back into coding.
+
 ## Built-in References
 
 Skills include shared reference guides that the agent loads on demand:
